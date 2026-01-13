@@ -4,7 +4,7 @@
 ### [Fadhil AL Haidar_Pemrograman Mobile_UAS.pdf](https://github.com/user-attachments/files/24463660/Pemrograman.Mobile.1-.UAS.pdf)
 
 ## File Apk Mending-Mancing (Beta)
-### [Unduh Apk Mending-Mancing (beta)](https://github.com/Kitsune-mizu/Project-App-UI-UX/releases/download/V1.0.0/base.apk)
+### [Unduh Apk Mending-Mancing (beta)](File/Mending-Mancing.apk)
 
 ### [Clickup Gantt Timeline](https://sharing.clickup.com/90181808771/g/h/2kzm2cm3-438/65d90fddb201581)
 
