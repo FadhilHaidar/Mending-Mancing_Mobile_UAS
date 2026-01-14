@@ -60,7 +60,7 @@ Implementasi antarmuka aplikasi yang sudah berjalan (Live).
 
 Demonstrasi penggunaan aplikasi secara menyeluruh dapat dilihat pada video berikut:
 
-[![Youtube Video](https://img.youtube.com/vi/watch?v=Of7JQnS0LSQ/0.jpg)](https://youtu.be/Of7JQnS0LSQ?si=8HJ-grj3w40-8I28)
+[![Youtube Video](https://img.youtube.com/vi/Of7JQnS0LSQ/0.jpg)](https://youtu.be/Of7JQnS0LSQ?si=8HJ-grj3w40-8I28)
 
 > **[Klik di sini untuk menonton Video Demo di YouTube](https://www.youtube.com/watch?v=Of7JQnS0LSQ)**
 
