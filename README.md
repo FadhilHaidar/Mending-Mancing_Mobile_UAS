@@ -52,7 +52,7 @@ Desain High-Fidelity yang dibuat menggunakan Figma sebelum proses development.
 
 Implementasi antarmuka aplikasi yang sudah berjalan (Live).
 
-![UI](assets/ui_home.png)
+![UI](assets/ui.png)
 
 ---
 
@@ -70,7 +70,7 @@ Demonstrasi penggunaan aplikasi secara menyeluruh dapat dilihat pada video berik
 
 Penjadwalan pengerjaan proyek menggunakan **ClickUp**.
 
-**Link ClickUp:** [[Tempel Link ClickUp Kamu Disini (Pastikan Public View)](https://sharing.clickup.com/90181808771/g/h/2kzm2cm3-438/65d90fddb201581)]
+**Link ClickUp:** [(https://sharing.clickup.com/90181808771/g/h/2kzm2cm3-438/65d90fddb201581)]
 
 ![Gantt Chart](assets/gantt_chart.png)
 
