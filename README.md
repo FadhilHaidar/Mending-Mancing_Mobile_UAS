@@ -9,7 +9,7 @@
 ### [Clickup Gantt Timeline](https://sharing.clickup.com/90181808771/g/h/2kzm2cm3-438/65d90fddb201581)
 
 ## YouTube Preview UI/UX
-[![Tonton Video](https://img.youtube.com/vi/rtP4X9UGPm4/hqdefault.jpg)](https://youtu.be/rtP4X9UGPm4?si=FJNOVwdXTX_lB0Li)  
+[![Tonton Video](https://youtu.be/Of7JQnS0LSQ?si=-WVFpJUpfSj0pk4V)  
 
 ## Storyboard
 ![Storyboard](https://github.com/FadhilHaidar/Mending-Mancing_Mobile_UAS/issues/1#issue-3814312529)
