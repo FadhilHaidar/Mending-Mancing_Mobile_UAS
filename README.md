@@ -12,7 +12,7 @@
 [![Tonton Video](https://img.youtube.com/vi/rtP4X9UGPm4/hqdefault.jpg)](https://youtu.be/rtP4X9UGPm4?si=FJNOVwdXTX_lB0Li)  
 
 ## Storyboard
-![Storyboard](File/Storyboard_Mending-Mancing.png)
+![Storyboard](https://github.com/FadhilHaidar/Mending-Mancing_Mobile_UAS/issues/1#issue-3814312529)
 
 ## Mockup/Wireframe
 ![IMG_20251031_214159](https://github.com/user-attachments/assets/ecd469e8-f421-4159-a6c7-4318b2e98a9c)
